@@ -22,8 +22,8 @@ Dataset Sample Superstore (Kaggle).
 - Matplotlib
 - Streamlit
 
-##Résultats clés
--Identification des catégories les plus rentables
--Analyse des performances par région
--Étude de la saisonnalité des ventes
--Recommandations pour améliorer la rentabilité globale
+## Résultats clés
+- Identification des catégories les plus rentables
+- Analyse des performances par région
+- Étude de la saisonnalité des ventes
+- Recommandations pour améliorer la rentabilité globale
