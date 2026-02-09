@@ -1,4 +1,4 @@
-# Analyse exploratoire des ventes - Superstore
+# From Data to Decisions – Exploratory Data Analysis of Superstore Performance
 
 ## Objectif
 Analyser les données de ventes afin d’évaluer la performance commerciale,
@@ -9,10 +9,11 @@ Dataset Sample Superstore (Kaggle).
 
 ## Étapes
 - Chargement et nettoyage des données
-- Analyse exploratoire
+- Analyse exploratoire (EDA)
 - Visualisation des ventes et profits
-- Extraction d'insights business et recommandations stratégiques
-- Création d’une interface Streamlit
+- Extraction d'insights business
+- Recommandations stratégiques
+- Développement d’une interface de visualisation avec Streamlit
 
 ## Outils
 - Python
@@ -20,3 +21,9 @@ Dataset Sample Superstore (Kaggle).
 - Pandas
 - Matplotlib
 - Streamlit
+
+##Résultats clés
+-Identification des catégories les plus rentables
+-Analyse des performances par région
+-Étude de la saisonnalité des ventes
+-Recommandations pour améliorer la rentabilité globale
