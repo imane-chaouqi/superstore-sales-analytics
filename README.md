@@ -8,6 +8,7 @@ LinkedIn : https://www.linkedin.com/in/imane-chaouqi-04b57128a
 Portfolio: https://imane-chaouqi.github.io
 
 ## Aperçu 
+![App Screenshot](images/photo.png)
 
 ## Objectif
 Analyser les données de ventes afin d’évaluer la performance commerciale,
@@ -15,6 +16,19 @@ comprendre les facteurs clés de rentabilité et formuler des recommandations st
 
 ## Données
 Dataset Sample Superstore (Kaggle).
+
+## Résultats clés
+- Identification des catégories les plus rentables
+- Analyse des performances par région
+- Étude de la saisonnalité des ventes
+- Recommandations pour améliorer la rentabilité globale
+
+## Outils
+- Python
+- Numpy
+- Pandas
+- Matplotlib
+- Streamlit
 
 ## Étapes
 - Chargement et nettoyage des données
@@ -24,15 +38,3 @@ Dataset Sample Superstore (Kaggle).
 - Recommandations stratégiques
 - Développement d’une interface de visualisation avec Streamlit
 
-## Outils
-- Python
-- Numpy
-- Pandas
-- Matplotlib
-- Streamlit
-
-## Résultats clés
-- Identification des catégories les plus rentables
-- Analyse des performances par région
-- Étude de la saisonnalité des ventes
-- Recommandations pour améliorer la rentabilité globale
